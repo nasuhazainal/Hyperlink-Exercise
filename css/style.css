@@ -1,0 +1,33 @@
+body
+	{
+		background-color: #D2CBC4;
+	}
+
+a:link, a:visited
+	{
+     color: white;
+     background-color: #C38C9F;
+     text-decoration:none;
+     padding: 13px;
+     text-align: center;
+     display: inline-block;
+     font-family: century;
+	}
+
+
+a:hover
+	{
+		color: #C8964C;
+		background-color: #FECE9E;
+	}
+
+a:active
+	{
+		color: #ECF9F4;
+		background-color: #B16551;
+		text-decoration: none;
+	}
+
+
+
+
